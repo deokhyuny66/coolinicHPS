@@ -555,7 +555,7 @@
 	   			<input type="hidden" name="pTotalPay" id="pTotalPay" value="0">
 	   			<input type="hidden" name="pMonthPay" id="pMonthPay" value="0"> -->
    			
-   			<form action="/proc/calc" name="rentalForm" id="rentalForm" method="post">
+   			<form action="/calcProc" name="rentalForm" id="rentalForm" method="post">
    			<!-- container_content -->
    			<div class="container_content">
      			<div class="row_flex">
